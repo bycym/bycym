@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **before.your.close.your.mind@gmail.com**
 
-- ⚡ Fun fact **I am a music producer.**
+- ⚡ Fun fact **I am a music producer.** [SoundCloud](https://soundcloud.com/beforeyoucloseyourmind) [Bandcamp](https://sbeforeyoucloseyourmind.bandcamp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
