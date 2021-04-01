@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/bycymband" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bycymband" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benkoczyaron@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benkoczyaron@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/bycym" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bycym" height="30" width="40" /></a>
+<a href="https://instagram.com/before.you.close.your.mind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bycym" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
