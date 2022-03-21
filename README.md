@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bycym&label=Profile%20views&color=0e75b6&style=flat" alt="bycym" /> </p>
 
-- 🔭 I’m currently working on [My tiny python scripts for a quicker workflow. All of them is created for argos.](https://github.com/bycym/bitbar_jira_client)
+- 🔭 I’m currently working on my Space Taxi game, my metal band EP and on my own music too.
 
-- 🌱 I’m currently learning **FMOD, DDD, ASP.NET Core, Hexagonal Architecture, Azure**
+- 🌱 I’m currently learning **Unity, C#, FMOD, DDD, Hexagonal Architecture, Azure, Typescript**
 
 - 💬 Ask me about **Bash, Python, C#, Perl, Docker, Linux**
 
