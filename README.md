@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bycym&label=Profile%20views&color=0e75b6&style=flat" alt="bycym" /> </p>
 
-- 🔭 I’m currently working on my Space Taxi game, my metal band EP and on my own music too.
+- 🔭 I’m currently working on my Space Taxi game, my metal band EP and on [my own music](https://beforeyoucloseyourmind.bandcamp.com/) too.
 
 - 🌱 I’m currently learning **Unity, C#, FMOD, DDD, Hexagonal Architecture, Azure, Typescript**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **before.your.close.your.mind@gmail.com**
 
-- ⚡ Fun fact **I am a music producer.** [SoundCloud](https://soundcloud.com/beforeyoucloseyourmind) [Bandcamp](https://sbeforeyoucloseyourmind.bandcamp.com/)
+- ⚡ Fun fact **I am a music producer.** [SoundCloud](https://soundcloud.com/beforeyoucloseyourmind) [Bandcamp](https://beforeyoucloseyourmind.bandcamp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
