@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity, C#, FMOD, DDD, Hexagonal Architecture, Azure, Typescript**
 
-- ⚙️ I work as a full time developer at https://github.com/kinsta/.
+- ⚙️ I work as a full time developer at [Kinsta](https://github.com/kinsta/).
 
 - 💬 Ask me about **Bash, Python, C#, Perl, Docker, Linux**
 
