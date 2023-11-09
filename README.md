@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on my next EP that will be released on [Bandcamp](https://beforeyoucloseyourmind.bandcamp.com/) too.
 
-- 🌱 I’m currently learning **Unity, C#, FMOD, DDD, Hexagonal Architecture, Azure, Typescript**
+- 🌱 I’m currently learning **DDD, Hexagonal Architecture**
 
 - ⚙️ I work as a full time developer at [Kinsta](https://github.com/kinsta/).
 
-- 💬 Ask me about **Typscript, NodeJs, GraphQl, CI/DI, Bash, Python, C#, Docker, GCP, BigQuery**
+- 💬 Ask me about **Typscript, NodeJs, GraphQl, CI/DI, Bash, Python, C#, DotnetCore, Docker, GCP, BigQuery**
 
 - 📫 How to reach me **benkoczyaron@gmail.com**
 
