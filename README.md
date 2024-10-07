@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **DDD, Hexagonal Architecture**
 
-- ⚙️ I work as a full time developer at [Kinsta](https://github.com/kinsta/).
-
 - 💬 Ask me about **Typscript, NodeJs, GraphQl, CI/DI, Bash, Python, C#, DotnetCore, Docker, GCP, BigQuery**
 
 - 📫 How to reach me **benkoczyaron@gmail.com**
