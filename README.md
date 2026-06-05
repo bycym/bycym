@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bycym&label=Profile%20views&color=0e75b6&style=flat" alt="bycym" /> </p>
 
-- 🔭 I’m currently working on my next EP that will be released on [Bandcamp](https://beforeyoucloseyourmind.bandcamp.com/) too.
+- 🌱 I’m currently learning about **LLM Engineering: Generative AI, RAG, LoRA, and AI Agents**
 
-- 🌱 I’m currently learning **DDD, Hexagonal Architecture**
-
-- 💬 Ask me about **Typscript, NodeJs, GraphQl, CI/DI, Bash, Python, C#, DotnetCore, Docker, GCP, BigQuery**
+- 💬 Ask me about **Python, React, TypeScript, NodeJS, CI/DI, Bash, Docker, AWS**
 
 - 📫 How to reach me **benkoczyaron@gmail.com**
 
 - ⚡ Fun fact **I am a music producer.** [SoundCloud](https://soundcloud.com/beforeyoucloseyourmind) [Bandcamp](https://beforeyoucloseyourmind.bandcamp.com/)
+
+- 🔭 I’m currently working on my next EP that will be released on [Bandcamp](https://beforeyoucloseyourmind.bandcamp.com/) too and you can find it on each platform: [Spotify](https://open.spotify.com/artist/2sduEziGMsmyNDIbwHUoYU), [Apple](https://music.apple.com/us/artist/before-you-close-your-mind/1710715924), [Amazon](https://music.amazon.com/artists/B0CKL9TNB3), [Deezer](https://www.deezer.com/hu/artist/234610041), [SoundCloud](https://soundcloud.com/beforeyoucloseyourmind), [Tidal](https://tidal.com/artist/42646786), [YoutubeMusic](https://music.youtube.com/channel/UC_WZHKCw6lGHSlP45v7H5yQ).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
